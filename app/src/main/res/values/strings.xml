@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Vector Drawable</string>
+    <string name="change_imageview_icon">Change ImageView icon</string>
+    <string name="imageview">ImageView!</string>
+</resources>
